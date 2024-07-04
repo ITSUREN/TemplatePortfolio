@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://ITSURENXD.github.io/TemplatePortfolio",
+    "build-gh": "parcel build --public-url 'https://ITSURENXD.github.io/TemplatePortfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },

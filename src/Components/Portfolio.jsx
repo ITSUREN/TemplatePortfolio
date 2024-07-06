@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Get Closest",
     description:
-      "A mobile game that utilizes mathematical expression to reach a goal built using Kivy Library, python",
+      "A mobile game that utilizes mathematical expressions to reach a goal, built using the Kivy Library for python",
     url: "https://github.com/ITSURENXD/Get_Closest",
   },
   {
@@ -49,7 +49,7 @@ const projectList = [
   },
   {
     title: "My Portfolio Site",
-    description: "Created using netlify on github repository",
+    description: "An experimental portfolio created using netlify on github repository",
     url: "https://github.com/ITSURENXD/Portfolio",
   },
 ];

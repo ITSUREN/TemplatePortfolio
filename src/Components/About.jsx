@@ -24,7 +24,7 @@ const imageAltText = "A field illustration";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Compouter Science student studying at Amrit Science Campus. I enjoy creating fun simple games and developing programs.";
+  "I'm a Computer Science student at Amrit Science Campus. I enjoy creating fun simple games and developing programs.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -38,7 +38,7 @@ const skillsList = ["Python", "C", "C++", "Web Technology"];
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in fun ways, usually adding personal touches. By leveraging my programming experience I continually look for new and better ways to make games and programs that are enjoyable to work on and use.";
+  "I am passionate about solving problems in fun ways, usually adding personal touches to them. By leveraging my programming experience, I continuously look for new and better ways to make games and programs more enjoyable to work on and use.";
 
 const About = () => {
   return (

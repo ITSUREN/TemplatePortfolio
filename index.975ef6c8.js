@@ -27182,7 +27182,7 @@ var _coverJpegDefault = parcelHelpers.interopDefault(_coverJpeg);
 const imageAltText = "A field illustration";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a Compouter Science student studying at Amrit Science Campus. I enjoy creating fun simple games and developing programs.";
+ */ const description = "I'm a Computer Science student at Amrit Science Campus. I enjoy creating fun simple games and developing programs.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -27196,7 +27196,7 @@ const imageAltText = "A field illustration";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about solving problems in fun ways, usually adding personal touches. By leveraging my programming experience I continually look for new and better ways to make games and programs that are enjoyable to work on and use.";
+ */ const detailOrQuote = "I am passionate about solving problems in fun ways, usually adding personal touches to them. By leveraging my programming experience, I continuously look for new and better ways to make games and programs more enjoyable to work on and use.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
@@ -28758,7 +28758,7 @@ const imageAltText = "A person working on a laptop";
  */ const projectList = [
     {
         title: "Get Closest",
-        description: "A mobile game that utilizes mathematical expression to reach a goal built using Kivy Library, python",
+        description: "A mobile game that utilizes mathematical expressions to reach a goal, built using the Kivy Library for python",
         url: "https://github.com/ITSURENXD/Get_Closest"
     },
     {
@@ -28773,7 +28773,7 @@ const imageAltText = "A person working on a laptop";
     },
     {
         title: "My Portfolio Site",
-        description: "Created using netlify on github repository",
+        description: "An experimental portfolio created using netlify on github repository",
         url: "https://github.com/ITSURENXD/Portfolio"
     }, 
 ];
